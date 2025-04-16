@@ -1,7 +1,7 @@
 {
   "name": "KANGO-XMD",
   "version": "2.4.0",
-  "description": "KANGO-XMD, the best WhatsApp Bot in Ghana",
+  "description": "SWATI-TEACH, the best WhatsApp Bot in Ghana",
   "logo": "https://i.imgur.com/GVW7aoD.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
   "repository": "https://github.com/official_kango/KANGO-XMD-V2.git",
@@ -17,32 +17,32 @@
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "KANGO-XMD",
+      "value": "SWATI-TEACH",
       "required": false
     },
     "OWNER_NUMBER": {
       "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
-      "value": "",
+      "value": "923409068757",
       "required": true
     },
     "OWNER_NAME": {
       "description": "owner name",
-      "value": "",
+      "value": "SWATI-TEACH",
       "required": true
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "KANGO",
+      "value": "SWATI",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "KANGO",
+      "value": "SWATIBOT",
       "required": false
     },
     "HEROKU_API_KEY": {
       "description": "Enter heroku API key here",
-      "value": "",
+      "value": "HRKU-eb99adcc-2287-4ac8-9728-113efa57a1b3",
       "required": false
     },
     "HEROKU_APP_NAME": {
